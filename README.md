@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Abitur and on many projects<br>🌱 I’m currently learning Data Science and AI<br>💬 Ask me about JAVA / SQL / C#<br>⚡ Fun fact: I startet coding in the age of 12
+🔭 I’m currently working on my Bachlor and on many projects<br>🌱 I’m currently learning Data Science and AI<br>💬 Ask me about JAVA / SQL / C#<br>⚡ Fun fact: I startet coding in the age of 12
 
 
 ## 🌐 Socials:
